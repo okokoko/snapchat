@@ -1,5 +1,5 @@
 //
-//  ViewController.swift
+//  CameraVC.swift
 //  Devchat
 //
 //  Created by Mario Fancovic on 24/11/2016.
@@ -8,18 +8,12 @@
 
 import UIKit
 
-class ViewController: UIViewController {
+class CameraVC: AVCamCameraViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
     }
-
-    override func didReceiveMemoryWarning() {
-        super.didReceiveMemoryWarning()
-        // Dispose of any resources that can be recreated.
-    }
-
 
 }
 

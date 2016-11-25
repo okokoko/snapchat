@@ -34,5 +34,9 @@
 		<string>UIInterfaceOrientationLandscapeLeft</string>
 		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
+	<key>NSCameraUsageDescription</key>
+	<string>Aplikacia chce použiť Vašu Kameru</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>Aplikácia potrebuje povoliť prístup k mikrofónu</string>
 </dict>
 </plist>
